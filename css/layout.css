@@ -275,7 +275,7 @@ ul#nav li.current a { color: #008FFF; }
    padding: 0;
 }
 #main .social li a { color: #fff; }
-#main .social li a:hover { color: #197C28; }
+#main .social li a:hover { color: #008FFF; }
 
 
 /* ------------------------------------------------------------------ */
@@ -289,7 +289,7 @@ ul#nav li.current a { color: #008FFF; }
    padding-bottom: 72px;     
    overflow: hidden; 
 }
-#about a, #about a:visited  { color: #0C3012; }
+#about a, #about a:visited  { color: #008FFF; }
 #about a:hover, #about a:focus { color: #fff; }
 
 .section-header,
@@ -303,7 +303,7 @@ ul#nav li.current a { color: #008FFF; }
 #about .section-header .icon-wrap { 	
 	font-size: 60px;
 	margin-bottom: 18px;
-	color: #0F3C17; 
+	color: #008FFF; 
 }
 #about .section-header h1 {
    font: 30px/36px 'montserrat-bold', sans-serif;
