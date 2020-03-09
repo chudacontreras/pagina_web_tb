@@ -449,7 +449,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 6px;
     padding-right: 10px;
-    color: #1B6728;
+    color: #008FFF;
 }
 footer .copyright  li:first-child:before {
     display: none;
