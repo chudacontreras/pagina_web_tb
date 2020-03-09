@@ -303,7 +303,7 @@ ul#nav li.current a { color: #008FFF; }
 #about .section-header .icon-wrap { 	
 	font-size: 60px;
 	margin-bottom: 18px;
-	color: #008FFF; 
+	color: rgb(30, 40, 187); 
 }
 #about .section-header h1 {
    font: 30px/36px 'montserrat-bold', sans-serif;
