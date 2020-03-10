@@ -425,10 +425,10 @@ footer {
 	background: #0f0f0f;
    padding-top: 24px;
    padding-bottom: 24px;
-   color: #303030;      
+   color: #fff;      
 }
-footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a, footer a:visited { color: #008fff; }
+footer a:hover, footer a:focus { color: #1E28BB; }
 
 /* copyright */
 footer .copyright {
@@ -482,5 +482,5 @@ footer .copyright  li:first-child:before {
    line-height: 48px;
  	border-radius: 3px;
 }
-#go-top a:hover { background: #165622; }
+#go-top a:hover { background: #008FFF; }
 
